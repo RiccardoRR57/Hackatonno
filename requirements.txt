@@ -8,3 +8,4 @@ requests
 python-dateutil
 playwright  # For browser automation
 browser-use  # End-to-end agent framework
+chromium    # Headless browser for net crawling
