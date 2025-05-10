@@ -1,0 +1,10 @@
+google-adk
+sentinelsat
+pillow
+matplotlib
+numpy
+geopy
+requests
+python-dateutil
+playwright  # For browser automation
+browser-use  # End-to-end agent framework
